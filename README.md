@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nadiia-analyst
+- 👀 I’m interested in Data Anaytics
+- 🌱 I’m currently learning SQL and Python
+- 📫 How to reach me https://www.linkedin.com/in/nadiia-buravskaia-economist/
